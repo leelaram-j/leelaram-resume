@@ -1,0 +1,55 @@
+{
+    "name": "Leelaram Jayaram",
+    "occupation": "Software Development Engineer Test",
+    "location": "Chennai, TN, India",
+    "avatar": "leelaram.jpeg",
+    "pronouns": "he/him",
+    "email": "leelaram24@icloud.com",
+    "telephone": "+918939948456",
+    "website": "www.leelaram.dev",
+    "skills": [
+        "C++",
+        "Java",
+        "Selenium",
+        "Rest Assured",
+        "TestNG",
+        "Maven",
+        "Jenkins",
+        "Git",
+        "Docker",
+        "Ansible",
+        "AWS",
+        "MySQL",
+        "Cassandra"    
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "Fluent"
+        },
+        {
+            "name": "Hindi",
+            "level": "fluent"
+        },
+        {
+            "name": "Telugu",
+            "level": "Native"
+        },
+        {
+            "name": "Tamil",
+            "level": "Fluent"
+        }
+    ],
+    "social": [
+        {
+            "name": "Github",
+            "user": "@leelaram-j",
+            "url": "https://github.com/leelaram-j"
+        },
+        {
+            "name": "LinkedIn",
+            "user": "Leelaram Jayaram",
+            "url": "https://www.linkedin.com/in/leelaram/"
+        }
+    ]
+}
